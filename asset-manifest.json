@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Hotel-Website/static/js/main.154fa82d.js",
+    "static/media/carousel-1.jpg": "/Hotel-Website/static/media/carousel-1.580323fd42819ddb11d9.jpg",
+    "static/media/carousel-2.jpg": "/Hotel-Website/static/media/carousel-2.e67221a5c43968e9ef5d.jpg",
+    "static/media/about-2.jpg": "/Hotel-Website/static/media/about-2.f237c61ab44741d424c9.jpg",
+    "static/media/about-3.jpg": "/Hotel-Website/static/media/about-3.19e8490bcc8db113243e.jpg",
+    "static/media/room-3.jpg": "/Hotel-Website/static/media/room-3.890ab1a8d25b31cd5d87.jpg",
+    "static/media/about-4.jpg": "/Hotel-Website/static/media/about-4.507986633c7560c264ce.jpg",
+    "static/media/room-1.jpg": "/Hotel-Website/static/media/room-1.8fda0e4d8cf58936698e.jpg",
+    "static/media/about-1.jpg": "/Hotel-Website/static/media/about-1.ce9897e4caca9a809a07.jpg",
+    "static/media/team-1.jpg": "/Hotel-Website/static/media/team-1.f24c58a224dbc59096e8.jpg",
+    "static/media/room-2.jpg": "/Hotel-Website/static/media/room-2.ad8e1de432e73dae54f9.jpg",
+    "static/media/team-3.jpg": "/Hotel-Website/static/media/team-3.83d34ae55471b6c736a6.jpg",
+    "static/media/team-4.jpg": "/Hotel-Website/static/media/team-4.c997387c1d31db5d174b.jpg",
+    "static/media/team-2.jpg": "/Hotel-Website/static/media/team-2.c0cc63baac1814196277.jpg",
+    "index.html": "/Hotel-Website/index.html",
+    "main.154fa82d.js.map": "/Hotel-Website/static/js/main.154fa82d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.154fa82d.js"
+  ]
+}
